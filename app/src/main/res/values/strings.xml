@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">homework_8</string>
+    <string name="add_button">add button</string>
+    <string name="title_first_name">Firstname:</string>
+    <string name="title_last_name">Lastname:</string>
+    <string name="empty">-</string>
+    <string name="title_email">Email:</string>
+</resources>
